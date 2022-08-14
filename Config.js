@@ -15,34 +15,34 @@ global.APIKeys = {
 // 👈 You Can change this your choice
 global.emoji01 = ['🐼'] // 👈 Enter your Emoji 
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
-global.notice = ` *Hi 🥰 I m*
+global.notice = ` *Hi 🥰 I m online now👋*
 *ＮＯＩＺ Ξ*
 *I am 16 years old developer...*
 *From Sri Lanka 🇱🇰*
 *I am a Learning.*
 *Not more..*
 *Also I am Student*
-*Follow My Facebook - https://www.facebook.com/zenoixnoize*`  // 👈 Enter Your details and Social Media Links and Anything
-global.owner =  ['+94711502119'] //👈  Enter Your number
-global.premium =  ['+94711502119'] //👈  Enter Your number
-global.ownernomer = '+94711502119' //👈  Enter Your number
-global.ownername = 'ZENOI' //👈 Enter Your name
-global.botname = 'ＧＡＲＦＩＥＬＤ ＢＯＴ' //👈 Enter Your Bot name
-global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 𝖦𝖺𝗋𝖿𝗂𝖾𝗅𝖽 𝖡𝗈𝗍' //👈 Enter Your Name
-global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
-global.region = 'India, South India, Kerala' // 👈 You Can change this your choice
-global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
-global.fbt = 'Follw Us ℹ️' // 👈 Enter (Subscribe/Follow/Like now)
-global.myweb = 'https://www.facebook.com/garfieldbots/'// 👈 Enter your Social media link to follow now button
+*Follow My Facebook - https://www.facebook.com/manula.nethsara.3*`  // 👈 Enter Your details and Social Media Links and Anything
+global.owner =  ['+94768453015'] //👈  Enter Your number
+global.premium =  ['+94768453015'] //👈  Enter Your number
+global.ownernomer = '+94768453015' //👈  Enter Your number
+global.ownername = 'Manula Nethsara' //👈 Enter Your name
+global.botname = '❖꧁༒MR Manu༒꧂❖' //👈 Enter Your Bot name
+global.footer = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙼𝙰𝙽𝚄𝙻𝙰 𝙽𝙴𝚃𝙷𝚂𝙰𝚁𝙰' //👈 Enter Your Name
+global.ig = 'https://github.com/Manulanethsara12/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
+global.region = 'Sri lanka, N.W.P, Kurunegala' // 👈 You Can change this your choice
+global.sc = 'https://github.com/Manulanethsara12/GARFIELD-WHATSAPP-BOT-v8'
+global.fbt = 'Follw Us ℹ️'/https://www.facebook.com/manula.nethsara.3 / 👈 Enter (Subscribe/Follow/Like now)
+global.myweb = 'https://www.facebook.com/manula.nethsara.3'// 👈 Enter your Social media link to follow now button
 global.welcome = '*Welcome To The Group 🦋*' // 👈 You Can change this your choice
-global.bye = '*Bye bye Mother fucker 🐼*' // 👈 You Can change this your choice
-global.packname = 'GARFIELD-BOTv8'  // 👈 You Can change this your choice 
-global.author = 'NOIZE DEVELOPMENT' // 👈 You Can change this your choice 
+global.bye = '*Good Bye🐼*' // 👈 You Can change this your choice
+global.packname = ''  /❖꧁༒MR Manu༒꧂❖/ 👈 You Can change this your choice 
+global.author = 'Dark Monster🤖' // 👈 You Can change this your choice 
 global.sessionName = 'session' // 👈 You Can change this your choice
 global.prefa = ['','!','.','🛰️','⚓','🍎'] // 👈 You Can change this your choice
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
-global.thumb =  'https://i.ibb.co/Jz0mMnC/Pics-Art-22-06-03-01-01-46-876.png' 
-global.spoty = 'https://i.postimg.cc/HW2YbN1b/Pics-Art-22-08-09-16-12-14-489.png'
+global.thumb =  'https://telegra.ph/file/412ce09517ca392b20361.jpg' 
+global.spoty = 'https://telegra.ph/file/6e6e3abb387957c4b4934.jpg'
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
 global.sp = '⭔'
 global.mess = {
