@@ -16,7 +16,7 @@ global.APIKeys = {
 global.emoji01 = ['🐼'] // 👈 Enter your Emoji 
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
 global.notice = ` *Hi 🥰 I m online now👋*
-*ＮＯＩＺ Ξ*
+*Manula Nethsara*
 *I am 16 years old developer...*
 *From Sri Lanka 🇱🇰*
 *I am a Learning.*
